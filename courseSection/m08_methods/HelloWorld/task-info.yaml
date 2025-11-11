@@ -12,7 +12,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: PgXfA4VgREuotEbMR2AJD5C+6fEqjpq0AlmxNunHDWQ=
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
       - offset: 143
         length: 26
@@ -23,7 +23,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: RjXLuYtrIeFx8t2faS4BW/2gQboG0zmqD4I7aeKaQbM=
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
       - offset: 220
         length: 26
@@ -34,11 +34,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFHtnPg2skrYXe5kpw7W5evA=
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
     learner_created: false
   - name: test/Tests.java
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 11 Nov 2025 17:19:26 UTC"
 record: -1
